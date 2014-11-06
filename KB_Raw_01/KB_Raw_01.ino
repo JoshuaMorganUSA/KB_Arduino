@@ -146,6 +146,243 @@ void loop()
     delay(2833);
     
     
+    //C4 #1
+    playTone(NOTE_C4, 244);
+    delay(668);
+    playTone(NOTE_C4, 36939);
+    delay(2423);
+    
+    
+    //E4 #2
+    playTone(NOTE_E4, 2864);
+    delay(869);
+    playTone(NOTE_E4, 148);
+    delay(794);
+    playTone(NOTE_E4, 227);
+    delay(2698);
+    
+    
+    //E4 #3
+    playTone(NOTE_E4, 3095);
+    delay(773);
+    playTone(NOTE_E4, 249);
+    delay(663);
+    playTone(NOTE_E4, 192);
+    delay(2746);
+    
+    //G4 #1
+    playTone(NOTE_G4, 3060);
+    delay(659);
+    playTone(NOTE_G4, 223);
+    delay(664);
+    playTone(NOTE_G4, 3265);
+    delay(663);
+    playTone(NOTE_G4, 3251);
+    
+    //C#3 #1
+    playTone(NOTE_CS3, 3265);
+    delay(663);
+    playTone(NOTE_CS3, 3251);
+    delay(2833);
+    
+    
+    //C#4 #1
+    playTone(NOTE_CS4, 3265);
+    delay(663);
+    playTone(NOTE_CS4, 3251);
+    delay(663);
+    playTone(NOTE_CS4, 3251);
+    delay(2833);
+    
+    
+    //C#3 #2
+    playTone(NOTE_CS3, 3265);
+    delay(663);
+    playTone(NOTE_CS3, 3251);
+    delay(2833);
+    
+    //C#3 #3
+    playTone(NOTE_CS3, 3265);
+    delay(663);
+    playTone(NOTE_CS3, 3251);
+    delay(2833);
+    
+    //G4 #2
+    playTone(NOTE_G4, 3060);
+    delay(659);
+    playTone(NOTE_G4, 223);
+    delay(664);
+    playTone(NOTE_G4, 3265);
+    delay(663);
+    playTone(NOTE_G4, 3251);
+    delay(3518);
+    
+    //E4 #4
+    playTone(NOTE_E4, 2855);
+    delay(873);
+    playTone(NOTE_E4, 306);
+    delay(559);
+    playTone(NOTE_E4, 306);
+    delay(2833);
+    
+    
+    //C4 #2
+    playTone(NOTE_C4, 244);
+    delay(668);
+    playTone(NOTE_C4, 3693);
+    delay(2423);
+    
+    //E4 #5
+    playTone(NOTE_E4, 2864);
+    delay(869);
+    playTone(NOTE_E4, 148);
+    delay(794);
+    playTone(NOTE_E4, 227);
+    delay(2698);
+    
+    //E4 #6
+    playTone(NOTE_E4, 3095);
+    delay(773);
+    playTone(NOTE_E4, 249);
+    delay(663);
+    playTone(NOTE_E4, 192);
+    delay(2746);
+    
+    //G4 #3
+    playTone(NOTE_G4, 3060);
+    delay(659);
+    playTone(NOTE_G4, 223);
+    delay(664);
+    playTone(NOTE_G4, 3265);
+    delay(663);
+    playTone(NOTE_G4, 3251);
+    delay(3518);
+    
+    
+    //E4 #7
+    playTone(NOTE_E4, 2855);
+    delay(873);
+    playTone(NOTE_E4, 306);
+    delay(559);
+    playTone(NOTE_E4, 306);
+    delay(2833);
+    
+    //C4 #3
+    playTone(NOTE_C4, 244);
+    delay(668);
+    playTone(NOTE_C4, 3693);
+    delay(2423);
+    
+    
+    //E4 #8
+    playTone(NOTE_E4, 2864);
+    delay(869);
+    playTone(NOTE_E4, 148);
+    delay(794);
+    playTone(NOTE_E4, 227);
+    delay(2698);
+    
+    
+    //E4 #9
+    playTone(NOTE_E4, 3095);
+    delay(773);
+    playTone(NOTE_E4, 249);
+    delay(663);
+    playTone(NOTE_E4, 192);
+    delay(2746);
+    
+    
+    //G4 #4
+    playTone(NOTE_G4, 3060);
+    delay(659);
+    playTone(NOTE_G4, 223);
+    delay(664);
+    playTone(NOTE_G4, 3265);
+    delay(663);
+    playTone(NOTE_G4, 3251);
+    
+    
+    //C#3 #4
+    playTone(NOTE_CS3, 3265);
+    delay(663);
+    playTone(NOTE_CS3, 3251);
+    delay(2833);
+    
+    
+    //C#4 #2
+    playTone(NOTE_CS4, 3265);
+    delay(663);
+    playTone(NOTE_CS4, 3251);
+    delay(663);
+    playTone(NOTE_CS4, 3251);
+    delay(2833);
+    
+    
+    //C#3 #5
+    playTone(NOTE_CS3, 3265);
+    delay(663);
+    playTone(NOTE_CS3, 3251);
+    delay(2833);
+    
+
+    //C#3 #6
+    playTone(NOTE_CS6, 3265);
+    delay(663);
+    playTone(NOTE_CS6, 3251);
+    delay(2833);
+    
+    //G4 #5
+    playTone(NOTE_G4, 3060);
+    delay(659);
+    playTone(NOTE_G4, 223);
+    delay(664);
+    playTone(NOTE_G4, 3265);
+    delay(663);
+    playTone(NOTE_G4, 3251);
+    delay(3518);
+    
+    //E4 #10
+    playTone(NOTE_E4, 2855);
+    delay(873);
+    playTone(306);
+    delay(559);
+    playTone(306);
+    delay(2833);
+    
+    //C4 #4
+    playTone(NOTE_C4, 244);
+    delay(668);
+    playTone(NOTE_C4, 3693);
+    delay(2423);
+    
+    //E4 #11
+    playTone(NOTE_E4, 2864);
+    delay(869);
+    playTone(NOTE_E4, 148);
+    delay(794);
+    playTone(NOTE_E4, 227);
+    delay(2698);
+    
+    
+   //E4 #12
+   playTone(NOTE_E4, 3095);
+   delay(773);
+   playTone(NOTE_E4, 249);
+   delay(663);
+   playTone(NOTE_E4, 192);
+   delay(2746);
+
+   
+   //G4 #5
+   playTone(NOTE_G4, 3060);
+   delay(659);
+   playTone(223);
+   delay(664);
+   playTone(NOTE_G4, 3265);
+   delay(663);
+   playTone(NOTE_G4, 3251);   
+   
+   
     
   }
    
