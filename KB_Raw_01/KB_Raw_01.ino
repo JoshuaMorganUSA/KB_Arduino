@@ -155,6 +155,10 @@ void loop()
  
   while(true)
   {
+    
+    digitalWrite(dirX, HIGH);
+    digitalWrite(dirY, HIGH);
+    digitalWrite(dirZ, HIGH);
     //E4 #1
     playTone(NOTE_E4, 2855);
     delay(873);
@@ -265,6 +269,13 @@ void loop()
     delay(663);
     playTone(NOTE_E4, 192);
     delay(2746);
+    
+    
+    //Switch directions so motors unspiral
+    
+    digitalWrite(dirX, LOW);
+    digitalWrite(dirY, LOW);
+    digitalWrite(dirZ, LOW);
     
     //G4 #3
     playTone(NOTE_G4, 3060);
