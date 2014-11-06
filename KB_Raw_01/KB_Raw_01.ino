@@ -138,18 +138,18 @@ void loop()
   while(true)
   {
     //E4 #1
-    playTone(NOTE_G4, 2855);
+    playTone(NOTE_E4, 2855);
     delay(873);
     playTone(NOTE_E4, 306);
     delay(559);
-    playTone(NOTE_G4, 306);
+    playTone(NOTE_E4, 306);
     delay(2833);
     
     
     //C4 #1
     playTone(NOTE_C4, 244);
     delay(668);
-    playTone(NOTE_C4, 36939);
+    playTone(NOTE_C4, 3693);
     delay(2423);
     
     
@@ -161,7 +161,7 @@ void loop()
     playTone(NOTE_E4, 227);
     delay(2698);
     
-    
+     
     //E4 #3
     playTone(NOTE_E4, 3095);
     delay(773);
@@ -344,9 +344,9 @@ void loop()
     //E4 #10
     playTone(NOTE_E4, 2855);
     delay(873);
-    playTone(306);
+    playTone(NOTE_E4, 306);
     delay(559);
-    playTone(306);
+    playTone(NOTE_E4, 306);
     delay(2833);
     
     //C4 #4
@@ -376,11 +376,11 @@ void loop()
    //G4 #5
    playTone(NOTE_G4, 3060);
    delay(659);
-   playTone(223);
+   playTone(NOTE_G4, 223);
    delay(664);
    playTone(NOTE_G4, 3265);
    delay(663);
-   playTone(NOTE_G4, 3251);   
+   playTone(NOTE_G4, 3251);  
    
    
     
