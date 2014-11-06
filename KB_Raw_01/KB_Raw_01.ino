@@ -1,3 +1,21 @@
+/*
+Stepper Driver program
+For Katherine Behar
+<e-waste> installation
+
+
+Written by:
+Joshua P. Morgan
+Christoper Heintz
+
+November 2014
+
+*/
+
+
+
+
+
 /*************************************************
  * Public Constants
  *************************************************/
